@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "test-run": "mkdir report && ./node_modules/.bin/cucumber-js --timeout=30000 --format json:./report/report.json --exit",
+    "test-run": "mkdir report && ./node_modules/.bin/cucumber-js --format json:./report/report.json --exit",
     "report-generate": "node index.js"
   },
   "keywords": [],
