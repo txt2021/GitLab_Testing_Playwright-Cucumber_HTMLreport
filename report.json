@@ -1,0 +1,1420 @@
+[
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
+        "id": "navigation-main-page;tc05---should-navigate-to-\"why-gitlab\"-section",
+        "keyword": "Scenario",
+        "line": 3,
+        "name": "TC05 - Should navigate to \"Why GitLab\" section",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "A user open main GitLab page",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:12"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1327894806
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 5,
+            "name": "A user clicks on \"Why GitLab\"",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:47"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1074169569
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 6,
+            "name": "\"Why GitLab\" title was displayed, \"Why GitLab\" section was appeared",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:189"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 70417881
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "navigation-main-page;tc06---should-navigate-to-\"platform\"-section",
+        "keyword": "Scenario",
+        "line": 8,
+        "name": "TC06 - Should navigate to \"Platform\" section",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 9,
+            "name": "A user open main GitLab page",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:12"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1277801107
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 10,
+            "name": "A user clicks on \"Platform\"",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:47"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1264488622
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 11,
+            "name": "\"Platform\" title was displayed, \"Platform\" section was appeared",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:189"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 282236433
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "navigation-main-page;tc07---should-navigate-to-\"solutions\"-section",
+        "keyword": "Scenario",
+        "line": 13,
+        "name": "TC07 - Should navigate to \"Solutions\" section",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 14,
+            "name": "A user open main GitLab page",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:12"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1459361748
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 15,
+            "name": "A user clicks on \"Solutions\"",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:47"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1821682962
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 16,
+            "name": "\"Solutions\" title was displayed, \"Solutions\" section was appeared",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:189"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 532966150
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "navigation-main-page;tc09---should-navigate-to-\"partners\"-section",
+        "keyword": "Scenario",
+        "line": 18,
+        "name": "TC09 - Should navigate to \"Partners\" section",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 19,
+            "name": "A user open main GitLab page",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:12"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2180849684
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 20,
+            "name": "A user clicks on \"Partners\"",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:47"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2399148435
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 21,
+            "name": "\"Partners\" title was displayed, \"Partners\" section was appeared",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:189"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 580288311
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "navigation-main-page;tc10---should-navigate-to-\"resources\"-section",
+        "keyword": "Scenario",
+        "line": 23,
+        "name": "TC10 - Should navigate to \"Resources\" section",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 24,
+            "name": "A user open main GitLab page",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:12"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3116563737
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 25,
+            "name": "A user clicks on \"Resources\"",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:47"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2787439251
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 26,
+            "name": "\"Resources\" title was displayed, \"Resources\" section was appeared",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:189"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 282458985
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "navigation-main-page;tc08---should-navigate-to-\"pricing\"-section",
+        "keyword": "Scenario",
+        "line": 28,
+        "name": "TC08 - Should navigate to \"Pricing\" section",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 29,
+            "name": "A user open main GitLab page",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:12"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3632228741
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 30,
+            "name": "A user clicks on \"Pricing\"",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:47"
+            },
+            "result": {
+              "status": "failed",
+              "duration": 33856201995,
+              "error_message": "locator.click: Timeout 30000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"a[href=\"https://gitlab.com/users/sign_in/\"]\"\n============================================================\n    at SearchPage.click (/home/runner/work/GitLab_Testing_Playwright-Cucumber_HTMLreport/GitLab_Testing_Playwright-Cucumber_HTMLreport/features/pages/page.js:34:53)\n    at SearchPage.clickGitlabButton (/home/runner/work/GitLab_Testing_Playwright-Cucumber_HTMLreport/GitLab_Testing_Playwright-Cucumber_HTMLreport/features/pages/searchPage.js:46:17)\n    at CustomWorld.<anonymous> (/home/runner/work/GitLab_Testing_Playwright-Cucumber_HTMLreport/GitLab_Testing_Playwright-Cucumber_HTMLreport/features/step_definitions/stepdefs.js:89:9)"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 31,
+            "name": "\"Get The One DevOps Platform\" title was displayed. User was redirected to the \"https://about.gitlab.com/pricing/\" page",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:228"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      }
+    ],
+    "id": "navigation-main-page",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "Navigation main page",
+    "tags": [],
+    "uri": "features/Navigation.feature"
+  },
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
+        "id": "search-work;tc13---should-check-search-work",
+        "keyword": "Scenario",
+        "line": 3,
+        "name": "TC13 - Should check search work",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "A user open main GitLab page",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:12"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2223140463
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 5,
+            "name": "A user clicks on search icon",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:38"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2133105462
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 6,
+            "name": "A user enters \"testing\" in \"search\" field",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:113"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 611720341
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 7,
+            "name": "A user press Enter",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:43"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 24325929
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 8,
+            "name": "\"Results for testing\" title was displayed. User stays on the same page",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:285"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 964350100
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "search-work;tc14---should-check-search-suggestions-work",
+        "keyword": "Scenario",
+        "line": 10,
+        "name": "TC14 - Should check search suggestions work",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 11,
+            "name": "A user open main GitLab page",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:12"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3411187943
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 12,
+            "name": "A user clicks on search icon",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:38"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2990676531
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 13,
+            "name": "A user clicks on \"DevOps\" button",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:16"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 564863201
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 14,
+            "name": "\"What is DevOps?\" title was displayed. User was redirected to the \"https://about.gitlab.com/topics/devops/\" page",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:228"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 284822997
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "search-work;tc15---should-redirect-user-to-sign-in-form-frome-search-page",
+        "keyword": "Scenario",
+        "line": 16,
+        "name": "TC15 - Should redirect user to sign in form frome search page",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 17,
+            "name": "A user open main GitLab page",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:12"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 7212350517
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 18,
+            "name": "A user clicks on search icon",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:38"
+            },
+            "result": {
+              "status": "failed",
+              "duration": 5000312621,
+              "error_message": "Error: function timed out, ensure the promise resolves within 5000 milliseconds\n    at Timeout.<anonymous> (/home/runner/work/GitLab_Testing_Playwright-Cucumber_HTMLreport/GitLab_Testing_Playwright-Cucumber_HTMLreport/node_modules/@cucumber/cucumber/src/time.ts:69:14)\n    at listOnTimeout (internal/timers.js:557:17)\n    at processTimers (internal/timers.js:500:7)"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 19,
+            "name": "A user clicks on \"gitlab.com\"",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:47"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 20,
+            "name": "User was redirected to the \"https://gitlab.com/users/sign_in/\" page. Sign in form was displayed",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:292"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      }
+    ],
+    "id": "search-work",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "Search work",
+    "tags": [],
+    "uri": "features/Search.feature"
+  },
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
+        "id": "sign-up-page;tc01---should-sign-up-on-gitlab-with-valid-credentials",
+        "keyword": "Scenario",
+        "line": 3,
+        "name": "TC01 - Should sign up on GitLab with valid credentials",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "A user open main GitLab page",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:12"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 20417201033
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 5,
+            "name": "A user clicks on \"Support\" button",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:16"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 377378724
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 6,
+            "name": "A user clicks on \"Register1\"",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:47"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1179056807
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 7,
+            "name": "A user enters \"Tester\" in \"First name\" field",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:113"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2041144613
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 8,
+            "name": "A user enters \"Smith\" in \"Last name\" field",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:113"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1402290039
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 9,
+            "name": "A user enters \"tester_8976\" in \"Username\" field",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:113"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 516666014
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 10,
+            "name": "A user enters \"fahafo5464@civikli.com\" in \"Email\" field",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:113"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 160667080
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 11,
+            "name": "A user enters \"testingpass\" in \"Password\" field",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:113"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 252680331
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 12,
+            "name": "A user clicks on \"Register2\"",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:47"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 584753040
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 13,
+            "name": "\"There was an error with the reCAPTCHA. Please solve the reCAPTCHA again.\" message was displayed. User was redirected to \"https://gitlab.com/users\" page",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:150"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1780474178
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "sign-up-page;tc02---should-sign-up-on-gitlab-with-invalid-credentials",
+        "keyword": "Scenario",
+        "line": 15,
+        "name": "TC02 - Should sign up on GitLab with invalid credentials",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 16,
+            "name": "A user open main GitLab page",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:12"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 5786884586
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 17,
+            "name": "A user clicks on \"Support\" button",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:16"
+            },
+            "result": {
+              "status": "failed",
+              "duration": 5010051652,
+              "error_message": "Error: function timed out, ensure the promise resolves within 5000 milliseconds\n    at Timeout.<anonymous> (/home/runner/work/GitLab_Testing_Playwright-Cucumber_HTMLreport/GitLab_Testing_Playwright-Cucumber_HTMLreport/node_modules/@cucumber/cucumber/src/time.ts:69:14)\n    at listOnTimeout (internal/timers.js:557:17)\n    at processTimers (internal/timers.js:500:7)"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 18,
+            "name": "A user clicks on \"Register1\"",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:47"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 19,
+            "name": "A user enters \"Tester\" in \"First name\" field",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:113"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 20,
+            "name": "A user enters \"Smith\" in \"Last name\" field",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:113"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 21,
+            "name": "A user enters \"tester_8976\" in \"Username\" field",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:113"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 22,
+            "name": "A user enters \"fahafo5464\" in \"Email\" field",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:113"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 23,
+            "name": "A user enters \"testingpass\" in \"Password\" field",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:113"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 24,
+            "name": "A user clicks on \"Register2\"",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:47"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 25,
+            "name": "\"Please provide a valid email address.\" message was displayed under the Email field. User stays on the same page",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:163"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "sign-up-page;tc03---should-sign-up-on-gitlab-with-empty-credentials",
+        "keyword": "Scenario",
+        "line": 27,
+        "name": "TC03 - Should sign up on GitLab with empty credentials",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 28,
+            "name": "A user open main GitLab page",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:12"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 8568552100
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 29,
+            "name": "A user clicks on \"Support\" button",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:16"
+            },
+            "result": {
+              "status": "failed",
+              "duration": 5001048837,
+              "error_message": "Error: function timed out, ensure the promise resolves within 5000 milliseconds\n    at Timeout.<anonymous> (/home/runner/work/GitLab_Testing_Playwright-Cucumber_HTMLreport/GitLab_Testing_Playwright-Cucumber_HTMLreport/node_modules/@cucumber/cucumber/src/time.ts:69:14)\n    at listOnTimeout (internal/timers.js:557:17)\n    at processTimers (internal/timers.js:500:7)"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 30,
+            "name": "A user clicks on \"Register1\"",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:47"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 31,
+            "name": "A user clicks on \"Register2\"",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:47"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 32,
+            "name": "\"This field is required.\" message was displayed under the Email field. User stays on the same page",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:163"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "sign-up-page;tc04---should-sign-up-on-gitlab-with-saleforce",
+        "keyword": "Scenario",
+        "line": 34,
+        "name": "TC04 - Should sign up on GitLab with Saleforce",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 35,
+            "name": "A user open main GitLab page",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:12"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 10472727956
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 36,
+            "name": "A user clicks on \"Support\" button",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:16"
+            },
+            "result": {
+              "status": "failed",
+              "duration": 5000150377,
+              "error_message": "Error: function timed out, ensure the promise resolves within 5000 milliseconds\n    at Timeout.<anonymous> (/home/runner/work/GitLab_Testing_Playwright-Cucumber_HTMLreport/GitLab_Testing_Playwright-Cucumber_HTMLreport/node_modules/@cucumber/cucumber/src/time.ts:69:14)\n    at listOnTimeout (internal/timers.js:557:17)\n    at processTimers (internal/timers.js:500:7)"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 37,
+            "name": "A user clicks on \"Register1\"",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:47"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 38,
+            "name": "A user clicks on \"Saleforce\"",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:47"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 39,
+            "name": "Saleforce login form was was displayed. User was redirected to the \"https://login.salesforce.com/\" page",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:183"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      }
+    ],
+    "id": "sign-up-page",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "Sign Up page",
+    "tags": [],
+    "uri": "features/SignUp.feature"
+  },
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
+        "id": "support-services;tc16---should-navigate-user-to-contact-support",
+        "keyword": "Scenario",
+        "line": 3,
+        "name": "TC16 - Should navigate user to Contact Support",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "A user open main GitLab page",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:12"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 11245591874
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 5,
+            "name": "A user clicks on \"Support\" button",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:16"
+            },
+            "result": {
+              "status": "failed",
+              "duration": 5000135275,
+              "error_message": "Error: function timed out, ensure the promise resolves within 5000 milliseconds\n    at Timeout.<anonymous> (/home/runner/work/GitLab_Testing_Playwright-Cucumber_HTMLreport/GitLab_Testing_Playwright-Cucumber_HTMLreport/node_modules/@cucumber/cucumber/src/time.ts:69:14)\n    at listOnTimeout (internal/timers.js:557:17)\n    at processTimers (internal/timers.js:500:7)"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 6,
+            "name": "A user clicks on \"Contact Support\"",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:47"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 7,
+            "name": "\"GitLab Support\" title was displayed. User was redirected to the \"https://about.gitlab.com/support/\" page",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:228"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "support-services;tc17---should-navigate-user-to-get-help-page",
+        "keyword": "Scenario",
+        "line": 9,
+        "name": "TC17 - Should navigate user to Get Help page",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 10,
+            "name": "A user open main GitLab page",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:12"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 11515471603
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 11,
+            "name": "A user clicks on \"Support\" button",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:16"
+            },
+            "result": {
+              "status": "failed",
+              "duration": 5002124923,
+              "error_message": "Error: function timed out, ensure the promise resolves within 5000 milliseconds\n    at Timeout.<anonymous> (/home/runner/work/GitLab_Testing_Playwright-Cucumber_HTMLreport/GitLab_Testing_Playwright-Cucumber_HTMLreport/node_modules/@cucumber/cucumber/src/time.ts:69:14)\n    at listOnTimeout (internal/timers.js:557:17)\n    at processTimers (internal/timers.js:500:7)"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 12,
+            "name": "A user clicks on \"Get Help\"",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:47"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 13,
+            "name": "\"Help Topics\" title was displayed. User was redirected to the \"https://about.gitlab.com/get-help/\" page",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:228"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "support-services;tc18---should-navigate-user-to-gitlab-professional-services",
+        "keyword": "Scenario",
+        "line": 15,
+        "name": "TC18 - Should navigate user to GitLab Professional Services",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 16,
+            "name": "A user open main GitLab page",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:12"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 13000364684
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 17,
+            "name": "A user clicks on \"Support\" button",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:16"
+            },
+            "result": {
+              "status": "failed",
+              "duration": 4999548907,
+              "error_message": "Error: function timed out, ensure the promise resolves within 5000 milliseconds\n    at Timeout.<anonymous> (/home/runner/work/GitLab_Testing_Playwright-Cucumber_HTMLreport/GitLab_Testing_Playwright-Cucumber_HTMLreport/node_modules/@cucumber/cucumber/src/time.ts:69:14)\n    at listOnTimeout (internal/timers.js:557:17)\n    at processTimers (internal/timers.js:500:7)"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 18,
+            "name": "A user clicks on \"Set up support services\"",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:47"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 19,
+            "name": "\"GitLab Professional Services\" title was displayed. User was redirected to the \"https://about.gitlab.com/services/\" page",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:228"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "support-services;tc19---should-navigate-user-to-talk-to-an-expert-page",
+        "keyword": "Scenario",
+        "line": 21,
+        "name": "TC19 - Should navigate user to Talk to an Expert page",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 22,
+            "name": "A user open main GitLab page",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:12"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 15264477167
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 23,
+            "name": "A user clicks on \"Support\" button",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:16"
+            },
+            "result": {
+              "status": "failed",
+              "duration": 5000082691,
+              "error_message": "Error: function timed out, ensure the promise resolves within 5000 milliseconds\n    at Timeout.<anonymous> (/home/runner/work/GitLab_Testing_Playwright-Cucumber_HTMLreport/GitLab_Testing_Playwright-Cucumber_HTMLreport/node_modules/@cucumber/cucumber/src/time.ts:69:14)\n    at listOnTimeout (internal/timers.js:557:17)\n    at processTimers (internal/timers.js:500:7)"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 24,
+            "name": "A user clicks on \"Contact Sales\"",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:47"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 25,
+            "name": "\"Talk to an Expert\" title was displayed. User was redirected to the \"https://about.gitlab.com/sales/\" page",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:228"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "support-services;tc20---should-navigate-user-to-registration-page",
+        "keyword": "Scenario",
+        "line": 27,
+        "name": "TC20 - Should navigate user to registration page",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 28,
+            "name": "A user open main GitLab page",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:12"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 17386800203
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 29,
+            "name": "A user clicks on \"Support\" button",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:16"
+            },
+            "result": {
+              "status": "failed",
+              "duration": 5000910144,
+              "error_message": "Error: function timed out, ensure the promise resolves within 5000 milliseconds\n    at Timeout.<anonymous> (/home/runner/work/GitLab_Testing_Playwright-Cucumber_HTMLreport/GitLab_Testing_Playwright-Cucumber_HTMLreport/node_modules/@cucumber/cucumber/src/time.ts:69:14)\n    at listOnTimeout (internal/timers.js:557:17)\n    at processTimers (internal/timers.js:500:7)"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 30,
+            "name": "A user clicks on \"Register1\"",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:47"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 31,
+            "name": "\"Sign Up form\" title was displayed. User was redirected to the \"https://gitlab.com/users/sign_up/\" page",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:228"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      }
+    ],
+    "id": "support-services",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "Support services",
+    "tags": [],
+    "uri": "features/Support.feature"
+  },
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
+        "id": "free-trial-and-talk-to-an-expert-pages;tc11---should-display-\"talk-to-an-expert\"-form",
+        "keyword": "Scenario",
+        "line": 3,
+        "name": "TC11 - Should display \"Talk to an expert\" form",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "A user open main GitLab page",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:12"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 17409210745
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 5,
+            "name": "A user clicks on \"Talk to an expert\" button",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:16"
+            },
+            "result": {
+              "status": "failed",
+              "duration": 5002089626,
+              "error_message": "Error: function timed out, ensure the promise resolves within 5000 milliseconds\n    at Timeout.<anonymous> (/home/runner/work/GitLab_Testing_Playwright-Cucumber_HTMLreport/GitLab_Testing_Playwright-Cucumber_HTMLreport/node_modules/@cucumber/cucumber/src/time.ts:69:14)\n    at listOnTimeout (internal/timers.js:557:17)\n    at processTimers (internal/timers.js:500:7)"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 6,
+            "name": "\"Talk to an Expert\" title was displayed. User was redirected to the \"https://about.gitlab.com/sales/\" page",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:228"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "free-trial-and-talk-to-an-expert-pages;tc12---should-display-\"free-trial\"-form",
+        "keyword": "Scenario",
+        "line": 8,
+        "name": "TC12 - Should display \"Free trial\" form",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 9,
+            "name": "A user open main GitLab page",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:12"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 18995562417
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 10,
+            "name": "A user clicks on \"Get free trial\" button",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:16"
+            },
+            "result": {
+              "status": "failed",
+              "duration": 5024925212,
+              "error_message": "Error: function timed out, ensure the promise resolves within 5000 milliseconds\n    at Timeout.<anonymous> (/home/runner/work/GitLab_Testing_Playwright-Cucumber_HTMLreport/GitLab_Testing_Playwright-Cucumber_HTMLreport/node_modules/@cucumber/cucumber/src/time.ts:69:14)\n    at listOnTimeout (internal/timers.js:557:17)\n    at processTimers (internal/timers.js:500:7)"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 11,
+            "name": "\"Free 30-day trial\" title was displayed. User was redirected to the \"https://gitlab.com/-/trial_registrations/\" page",
+            "match": {
+              "location": "features/step_definitions/stepdefs.js:228"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      }
+    ],
+    "id": "free-trial-and-talk-to-an-expert-pages",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "Free trial and Talk to an Expert pages",
+    "tags": [],
+    "uri": "features/TrialExpert.feature"
+  }
+]
