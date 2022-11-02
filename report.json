@@ -19,7 +19,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1327894806
+              "duration": 2097454849
             }
           },
           {
@@ -32,7 +32,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1074169569
+              "duration": 1010360302
             }
           },
           {
@@ -45,7 +45,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 70417881
+              "duration": 295088775
             }
           }
         ],
@@ -69,7 +69,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1277801107
+              "duration": 3820252768
             }
           },
           {
@@ -82,7 +82,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1264488622
+              "duration": 229055412
             }
           },
           {
@@ -95,7 +95,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 282236433
+              "duration": 44392124
             }
           }
         ],
@@ -119,7 +119,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1459361748
+              "duration": 1685180141
             }
           },
           {
@@ -132,7 +132,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1821682962
+              "duration": 2238159503
             }
           },
           {
@@ -145,7 +145,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 532966150
+              "duration": 630736529
             }
           }
         ],
@@ -169,7 +169,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 2180849684
+              "duration": 3281153163
             }
           },
           {
@@ -182,7 +182,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 2399148435
+              "duration": 3023025543
             }
           },
           {
@@ -195,7 +195,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 580288311
+              "duration": 329222958
             }
           }
         ],
@@ -219,7 +219,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 3116563737
+              "duration": 3750595772
             }
           },
           {
@@ -232,7 +232,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 2787439251
+              "duration": 3344514872
             }
           },
           {
@@ -245,7 +245,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 282458985
+              "duration": 618772432
             }
           }
         ],
@@ -269,7 +269,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 3632228741
+              "duration": 4853195947
             }
           },
           {
@@ -282,7 +282,7 @@
             },
             "result": {
               "status": "failed",
-              "duration": 33856201995,
+              "duration": 34669570134,
               "error_message": "locator.click: Timeout 30000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"a[href=\"https://gitlab.com/users/sign_in/\"]\"\n============================================================\n    at SearchPage.click (/home/runner/work/GitLab_Testing_Playwright-Cucumber_HTMLreport/GitLab_Testing_Playwright-Cucumber_HTMLreport/features/pages/page.js:34:53)\n    at SearchPage.clickGitlabButton (/home/runner/work/GitLab_Testing_Playwright-Cucumber_HTMLreport/GitLab_Testing_Playwright-Cucumber_HTMLreport/features/pages/searchPage.js:46:17)\n    at CustomWorld.<anonymous> (/home/runner/work/GitLab_Testing_Playwright-Cucumber_HTMLreport/GitLab_Testing_Playwright-Cucumber_HTMLreport/features/step_definitions/stepdefs.js:89:9)"
             }
           },
@@ -331,7 +331,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 2223140463
+              "duration": 2788932008
             }
           },
           {
@@ -344,7 +344,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 2133105462
+              "duration": 2856847366
             }
           },
           {
@@ -357,7 +357,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 611720341
+              "duration": 481680293
             }
           },
           {
@@ -370,7 +370,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 24325929
+              "duration": 50907520
             }
           },
           {
@@ -383,7 +383,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 964350100
+              "duration": 1016691907
             }
           }
         ],
@@ -407,7 +407,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 3411187943
+              "duration": 4413290172
             }
           },
           {
@@ -420,7 +420,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 2990676531
+              "duration": 5654725282
             }
           },
           {
@@ -433,7 +433,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 564863201
+              "duration": 844257665
             }
           },
           {
@@ -446,7 +446,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 284822997
+              "duration": 84947106
             }
           }
         ],
@@ -470,7 +470,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 7212350517
+              "duration": 17945680527
             }
           },
           {
@@ -482,9 +482,8 @@
               "location": "features/step_definitions/stepdefs.js:38"
             },
             "result": {
-              "status": "failed",
-              "duration": 5000312621,
-              "error_message": "Error: function timed out, ensure the promise resolves within 5000 milliseconds\n    at Timeout.<anonymous> (/home/runner/work/GitLab_Testing_Playwright-Cucumber_HTMLreport/GitLab_Testing_Playwright-Cucumber_HTMLreport/node_modules/@cucumber/cucumber/src/time.ts:69:14)\n    at listOnTimeout (internal/timers.js:557:17)\n    at processTimers (internal/timers.js:500:7)"
+              "status": "passed",
+              "duration": 550044264
             }
           },
           {
@@ -496,8 +495,9 @@
               "location": "features/step_definitions/stepdefs.js:47"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "failed",
+              "duration": 30399283424,
+              "error_message": "locator.click: Timeout 30000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"ul[class=\"support-dropdown_item\"] li>a[href=\"/support/\"]\"\n  selector resolved to hidden <a href=\"/support/\" data-nav=\"support\" data-v-7eadd…> Contact support </a>\nattempting click action\n  waiting for element to be visible, enabled and stable\n    element is not visible - waiting...\n============================================================\n    at SupportPage.click (/home/runner/work/GitLab_Testing_Playwright-Cucumber_HTMLreport/GitLab_Testing_Playwright-Cucumber_HTMLreport/features/pages/page.js:34:53)\n    at SupportPage.clickcontsctButton (/home/runner/work/GitLab_Testing_Playwright-Cucumber_HTMLreport/GitLab_Testing_Playwright-Cucumber_HTMLreport/features/pages/supportPage.js:27:13)\n    at CustomWorld.<anonymous> (/home/runner/work/GitLab_Testing_Playwright-Cucumber_HTMLreport/GitLab_Testing_Playwright-Cucumber_HTMLreport/features/step_definitions/stepdefs.js:92:9)"
             }
           },
           {
@@ -545,7 +545,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 20417201033
+              "duration": 10099056343
             }
           },
           {
@@ -558,7 +558,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 377378724
+              "duration": 6416128601
             }
           },
           {
@@ -571,7 +571,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1179056807
+              "duration": 2463757260
             }
           },
           {
@@ -584,7 +584,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 2041144613
+              "duration": 3109338699
             }
           },
           {
@@ -597,7 +597,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1402290039
+              "duration": 2322819024
             }
           },
           {
@@ -610,7 +610,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 516666014
+              "duration": 1364612231
             }
           },
           {
@@ -623,7 +623,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 160667080
+              "duration": 241590422
             }
           },
           {
@@ -636,7 +636,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 252680331
+              "duration": 332757632
             }
           },
           {
@@ -649,7 +649,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 584753040
+              "duration": 1284263853
             }
           },
           {
@@ -662,7 +662,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1780474178
+              "duration": 3215882084
             }
           }
         ],
@@ -686,7 +686,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 5786884586
+              "duration": 7078514682
             }
           },
           {
@@ -698,9 +698,8 @@
               "location": "features/step_definitions/stepdefs.js:16"
             },
             "result": {
-              "status": "failed",
-              "duration": 5010051652,
-              "error_message": "Error: function timed out, ensure the promise resolves within 5000 milliseconds\n    at Timeout.<anonymous> (/home/runner/work/GitLab_Testing_Playwright-Cucumber_HTMLreport/GitLab_Testing_Playwright-Cucumber_HTMLreport/node_modules/@cucumber/cucumber/src/time.ts:69:14)\n    at listOnTimeout (internal/timers.js:557:17)\n    at processTimers (internal/timers.js:500:7)"
+              "status": "passed",
+              "duration": 7036698631
             }
           },
           {
@@ -712,8 +711,8 @@
               "location": "features/step_definitions/stepdefs.js:47"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 3008986712
             }
           },
           {
@@ -725,8 +724,8 @@
               "location": "features/step_definitions/stepdefs.js:113"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 3941539000
             }
           },
           {
@@ -738,8 +737,8 @@
               "location": "features/step_definitions/stepdefs.js:113"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 2485993574
             }
           },
           {
@@ -751,8 +750,8 @@
               "location": "features/step_definitions/stepdefs.js:113"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 496420454
             }
           },
           {
@@ -764,8 +763,8 @@
               "location": "features/step_definitions/stepdefs.js:113"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 213814023
             }
           },
           {
@@ -777,8 +776,8 @@
               "location": "features/step_definitions/stepdefs.js:113"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 218043823
             }
           },
           {
@@ -790,8 +789,8 @@
               "location": "features/step_definitions/stepdefs.js:47"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 265361930
             }
           },
           {
@@ -803,8 +802,8 @@
               "location": "features/step_definitions/stepdefs.js:163"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 49751905
             }
           }
         ],
@@ -828,7 +827,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 8568552100
+              "duration": 6683879768
             }
           },
           {
@@ -840,9 +839,8 @@
               "location": "features/step_definitions/stepdefs.js:16"
             },
             "result": {
-              "status": "failed",
-              "duration": 5001048837,
-              "error_message": "Error: function timed out, ensure the promise resolves within 5000 milliseconds\n    at Timeout.<anonymous> (/home/runner/work/GitLab_Testing_Playwright-Cucumber_HTMLreport/GitLab_Testing_Playwright-Cucumber_HTMLreport/node_modules/@cucumber/cucumber/src/time.ts:69:14)\n    at listOnTimeout (internal/timers.js:557:17)\n    at processTimers (internal/timers.js:500:7)"
+              "status": "passed",
+              "duration": 7564319666
             }
           },
           {
@@ -854,8 +852,8 @@
               "location": "features/step_definitions/stepdefs.js:47"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 2661707393
             }
           },
           {
@@ -867,8 +865,8 @@
               "location": "features/step_definitions/stepdefs.js:47"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 3190785649
             }
           },
           {
@@ -880,8 +878,8 @@
               "location": "features/step_definitions/stepdefs.js:163"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 2349284256
             }
           }
         ],
@@ -905,7 +903,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 10472727956
+              "duration": 5410657792
             }
           },
           {
@@ -917,9 +915,8 @@
               "location": "features/step_definitions/stepdefs.js:16"
             },
             "result": {
-              "status": "failed",
-              "duration": 5000150377,
-              "error_message": "Error: function timed out, ensure the promise resolves within 5000 milliseconds\n    at Timeout.<anonymous> (/home/runner/work/GitLab_Testing_Playwright-Cucumber_HTMLreport/GitLab_Testing_Playwright-Cucumber_HTMLreport/node_modules/@cucumber/cucumber/src/time.ts:69:14)\n    at listOnTimeout (internal/timers.js:557:17)\n    at processTimers (internal/timers.js:500:7)"
+              "status": "passed",
+              "duration": 6637519542
             }
           },
           {
@@ -931,8 +928,8 @@
               "location": "features/step_definitions/stepdefs.js:47"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 4727723316
             }
           },
           {
@@ -944,8 +941,8 @@
               "location": "features/step_definitions/stepdefs.js:47"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 3565675289
             }
           },
           {
@@ -957,8 +954,8 @@
               "location": "features/step_definitions/stepdefs.js:183"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 652738468
             }
           }
         ],
@@ -993,7 +990,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 11245591874
+              "duration": 10213238882
             }
           },
           {
@@ -1005,9 +1002,8 @@
               "location": "features/step_definitions/stepdefs.js:16"
             },
             "result": {
-              "status": "failed",
-              "duration": 5000135275,
-              "error_message": "Error: function timed out, ensure the promise resolves within 5000 milliseconds\n    at Timeout.<anonymous> (/home/runner/work/GitLab_Testing_Playwright-Cucumber_HTMLreport/GitLab_Testing_Playwright-Cucumber_HTMLreport/node_modules/@cucumber/cucumber/src/time.ts:69:14)\n    at listOnTimeout (internal/timers.js:557:17)\n    at processTimers (internal/timers.js:500:7)"
+              "status": "passed",
+              "duration": 8016657941
             }
           },
           {
@@ -1019,8 +1015,8 @@
               "location": "features/step_definitions/stepdefs.js:47"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 2554885667
             }
           },
           {
@@ -1032,8 +1028,8 @@
               "location": "features/step_definitions/stepdefs.js:228"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 2733640985
             }
           }
         ],
@@ -1057,7 +1053,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 11515471603
+              "duration": 9329662482
             }
           },
           {
@@ -1069,9 +1065,8 @@
               "location": "features/step_definitions/stepdefs.js:16"
             },
             "result": {
-              "status": "failed",
-              "duration": 5002124923,
-              "error_message": "Error: function timed out, ensure the promise resolves within 5000 milliseconds\n    at Timeout.<anonymous> (/home/runner/work/GitLab_Testing_Playwright-Cucumber_HTMLreport/GitLab_Testing_Playwright-Cucumber_HTMLreport/node_modules/@cucumber/cucumber/src/time.ts:69:14)\n    at listOnTimeout (internal/timers.js:557:17)\n    at processTimers (internal/timers.js:500:7)"
+              "status": "passed",
+              "duration": 6185573253
             }
           },
           {
@@ -1083,8 +1078,8 @@
               "location": "features/step_definitions/stepdefs.js:47"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 2997152912
             }
           },
           {
@@ -1096,8 +1091,8 @@
               "location": "features/step_definitions/stepdefs.js:228"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 1967807604
             }
           }
         ],
@@ -1121,7 +1116,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 13000364684
+              "duration": 19419523935
             }
           },
           {
@@ -1133,9 +1128,8 @@
               "location": "features/step_definitions/stepdefs.js:16"
             },
             "result": {
-              "status": "failed",
-              "duration": 4999548907,
-              "error_message": "Error: function timed out, ensure the promise resolves within 5000 milliseconds\n    at Timeout.<anonymous> (/home/runner/work/GitLab_Testing_Playwright-Cucumber_HTMLreport/GitLab_Testing_Playwright-Cucumber_HTMLreport/node_modules/@cucumber/cucumber/src/time.ts:69:14)\n    at listOnTimeout (internal/timers.js:557:17)\n    at processTimers (internal/timers.js:500:7)"
+              "status": "passed",
+              "duration": 951751097
             }
           },
           {
@@ -1147,8 +1141,8 @@
               "location": "features/step_definitions/stepdefs.js:47"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 1990305606
             }
           },
           {
@@ -1160,8 +1154,9 @@
               "location": "features/step_definitions/stepdefs.js:228"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "failed",
+              "duration": 5389989156,
+              "error_message": "Error: expect(received).toBeVisible()\nCall log:\n  - expect.toBeVisible with timeout 5000ms\n  - waiting for selector \"div[class=\"blank-header\"] h1\"\n\n    at Proxy.<anonymous> (/home/runner/work/GitLab_Testing_Playwright-Cucumber_HTMLreport/GitLab_Testing_Playwright-Cucumber_HTMLreport/node_modules/@playwright/test/lib/expect.js:165:37)\n    at SupportPage.isservicesVisible (/home/runner/work/GitLab_Testing_Playwright-Cucumber_HTMLreport/GitLab_Testing_Playwright-Cucumber_HTMLreport/features/pages/supportPage.js:51:62)\n    at CustomWorld.<anonymous> (/home/runner/work/GitLab_Testing_Playwright-Cucumber_HTMLreport/GitLab_Testing_Playwright-Cucumber_HTMLreport/features/step_definitions/stepdefs.js:270:29)"
             }
           }
         ],
@@ -1185,7 +1180,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 15264477167
+              "duration": 8627196809
             }
           },
           {
@@ -1197,9 +1192,8 @@
               "location": "features/step_definitions/stepdefs.js:16"
             },
             "result": {
-              "status": "failed",
-              "duration": 5000082691,
-              "error_message": "Error: function timed out, ensure the promise resolves within 5000 milliseconds\n    at Timeout.<anonymous> (/home/runner/work/GitLab_Testing_Playwright-Cucumber_HTMLreport/GitLab_Testing_Playwright-Cucumber_HTMLreport/node_modules/@cucumber/cucumber/src/time.ts:69:14)\n    at listOnTimeout (internal/timers.js:557:17)\n    at processTimers (internal/timers.js:500:7)"
+              "status": "passed",
+              "duration": 7316484750
             }
           },
           {
@@ -1211,8 +1205,8 @@
               "location": "features/step_definitions/stepdefs.js:47"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 2978186606
             }
           },
           {
@@ -1224,8 +1218,8 @@
               "location": "features/step_definitions/stepdefs.js:228"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 3350449245
             }
           }
         ],
@@ -1249,7 +1243,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 17386800203
+              "duration": 9754372146
             }
           },
           {
@@ -1261,9 +1255,8 @@
               "location": "features/step_definitions/stepdefs.js:16"
             },
             "result": {
-              "status": "failed",
-              "duration": 5000910144,
-              "error_message": "Error: function timed out, ensure the promise resolves within 5000 milliseconds\n    at Timeout.<anonymous> (/home/runner/work/GitLab_Testing_Playwright-Cucumber_HTMLreport/GitLab_Testing_Playwright-Cucumber_HTMLreport/node_modules/@cucumber/cucumber/src/time.ts:69:14)\n    at listOnTimeout (internal/timers.js:557:17)\n    at processTimers (internal/timers.js:500:7)"
+              "status": "passed",
+              "duration": 8332261760
             }
           },
           {
@@ -1275,8 +1268,8 @@
               "location": "features/step_definitions/stepdefs.js:47"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 1685060074
             }
           },
           {
@@ -1288,8 +1281,8 @@
               "location": "features/step_definitions/stepdefs.js:228"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 2321877639
             }
           }
         ],
@@ -1324,7 +1317,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 17409210745
+              "duration": 16349984124
             }
           },
           {
@@ -1336,9 +1329,8 @@
               "location": "features/step_definitions/stepdefs.js:16"
             },
             "result": {
-              "status": "failed",
-              "duration": 5002089626,
-              "error_message": "Error: function timed out, ensure the promise resolves within 5000 milliseconds\n    at Timeout.<anonymous> (/home/runner/work/GitLab_Testing_Playwright-Cucumber_HTMLreport/GitLab_Testing_Playwright-Cucumber_HTMLreport/node_modules/@cucumber/cucumber/src/time.ts:69:14)\n    at listOnTimeout (internal/timers.js:557:17)\n    at processTimers (internal/timers.js:500:7)"
+              "status": "passed",
+              "duration": 2252461144
             }
           },
           {
@@ -1350,8 +1342,8 @@
               "location": "features/step_definitions/stepdefs.js:228"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 3488389900
             }
           }
         ],
@@ -1375,7 +1367,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 18995562417
+              "duration": 10464143330
             }
           },
           {
@@ -1387,9 +1379,8 @@
               "location": "features/step_definitions/stepdefs.js:16"
             },
             "result": {
-              "status": "failed",
-              "duration": 5024925212,
-              "error_message": "Error: function timed out, ensure the promise resolves within 5000 milliseconds\n    at Timeout.<anonymous> (/home/runner/work/GitLab_Testing_Playwright-Cucumber_HTMLreport/GitLab_Testing_Playwright-Cucumber_HTMLreport/node_modules/@cucumber/cucumber/src/time.ts:69:14)\n    at listOnTimeout (internal/timers.js:557:17)\n    at processTimers (internal/timers.js:500:7)"
+              "status": "passed",
+              "duration": 8384790476
             }
           },
           {
@@ -1401,8 +1392,8 @@
               "location": "features/step_definitions/stepdefs.js:228"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 943499
             }
           }
         ],
