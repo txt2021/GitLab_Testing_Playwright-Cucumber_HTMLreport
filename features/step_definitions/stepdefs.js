@@ -13,7 +13,7 @@ Given("A user open main GitLab page", { timeout: 60 * 1000 }, async function () 
   await this.openUrl();
 });
 
-When('A user clicks on {string} button', async function (button)  {
+When('A user clicks on {string} button', { timeout: 60 * 1000 }, async function (button)  {
   const mainpage = new MainPage(this.page);
   const searchpage = new SearchPage(this.page);
   switch(button){
@@ -35,12 +35,12 @@ When('A user clicks on {string} button', async function (button)  {
   
 });
 
-When('A user clicks on search icon', async function ()  {
+When('A user clicks on search icon', { timeout: 60 * 1000 }, async function ()  {
   const mainpage = new MainPage(this.page);
   await mainpage.clicksearchButton();
 });
 
-When('A user press Enter', async function ()  {
+When('A user press Enter', { timeout: 60 * 1000 }, async function ()  {
   await this.page.keyboard.press('Enter');
 });
 
@@ -110,7 +110,7 @@ When('A user clicks on {string}', { timeout: 60 * 1000 }, async function (button
     
 });
 
-When('A user enters {string} in {string} field', async function (data,field) {
+When('A user enters {string} in {string} field', { timeout: 60 * 1000 }, async function (data,field) {
   const signuppage = new SignUpPage(this.page);
   const searchpage = new SearchPage(this.page);
   switch(true){
