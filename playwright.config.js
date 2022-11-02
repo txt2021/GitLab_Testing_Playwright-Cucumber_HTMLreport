@@ -8,9 +8,9 @@ const { devices } = require('@playwright/test');
  */
 const config = {
   testDir: './tests/features/**/*.features',
-  timeout: 30 * 1000,
+  timeout: 60 * 1000,
   expect: {
-    timeout: 5000
+    timeout: 60 * 1000 
   },
   fullyParallel: true,
   forbidOnly: !!process.env.CI,

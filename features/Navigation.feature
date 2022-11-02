@@ -25,8 +25,8 @@ Feature: Navigation main page
         When A user clicks on "Resources"
         Then "Resources" title was displayed, "Resources" section was appeared
 
-    Scenario: TC08 - Should navigate to "Pricing" section
-        Given A user open main GitLab page
-        When A user clicks on "Pricing"
-        Then "Get The One DevOps Platform" title was displayed. User was redirected to the "https://about.gitlab.com/pricing/" page
+    #Scenario: TC08 - Should navigate to "Pricing" section
+    #    Given A user open main GitLab page
+    #    When A user clicks on "Pricing"
+    #    Then "Get The One DevOps Platform" title was displayed. User was redirected to the "https://about.gitlab.com/pricing/" page
 

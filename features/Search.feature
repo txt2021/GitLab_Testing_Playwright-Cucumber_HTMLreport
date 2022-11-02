@@ -13,8 +13,8 @@ Feature: Search work
         When A user clicks on "DevOps" button
         Then "What is DevOps?" title was displayed. User was redirected to the "https://about.gitlab.com/topics/devops/" page
 
-    Scenario: TC15 - Should redirect user to sign in form frome search page
-        Given A user open main GitLab page
-        When A user clicks on search icon
-        When A user clicks on "gitlab.com"
-        Then User was redirected to the "https://gitlab.com/users/sign_in/" page. Sign in form was displayed
+    #Scenario: TC15 - Should redirect user to sign in form frome search page
+    #    Given A user open main GitLab page
+    #    When A user clicks on search icon
+    #    When A user clicks on "gitlab.com"
+    #    Then User was redirected to the "https://gitlab.com/users/sign_in/" page. Sign in form was displayed
